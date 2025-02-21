@@ -3,9 +3,9 @@ Library    SeleniumLibrary
 
 *** Variables ***
 ${URL}          %{URL}                               *** %{https://networkmonitoringpreprod.sicame.io/Identity/Account/Login}***
-${BROWSER}      %{BROWSER}                           ***Chrome***
-${USERNAME}     %{USERNAME}                          ***vsaravanan@sicamegroup.com***
-${PASSWORD}     %{PASSWORD}                          ***Sicametest@123***
+${BROWSER}      %{BROWSER}                           *** Chrome ***
+${USERNAME}     %{USERNAME}                          *** vsaravanan@sicamegroup.com ***
+${PASSWORD}     %{PASSWORD}                          *** Sicametest@123 ***
 
 *** Test Cases ***
 Verify Successful Login
