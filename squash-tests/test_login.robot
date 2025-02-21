@@ -2,10 +2,6 @@
 Library    SeleniumLibrary
 
 *** Variables ***
-*** %{https://networkmonitoringpreprod.sicame.io/Identity/Account/Login}***
-*** Chrome ***
-*** vsaravanan@sicamegroup.com ***
-*** Sicametest@123 ***
 
 ${URL}          %{URL}                               
 ${BROWSER}      %{BROWSER}                          
